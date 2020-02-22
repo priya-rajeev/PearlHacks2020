@@ -57,9 +57,7 @@ fetch('https://ghibliapi.herokuapp.com/films')
 // request.onload = function() {
 //     // Begin accessing JSON data here
 // }
-//
-// // Send request
-// request.send()
+// Ema
 
 
 
