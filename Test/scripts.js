@@ -1,3 +1,4 @@
+
 // Replace ./data.json with your JSON feed
 fetch('https://ghibliapi.herokuapp.com/films')
     .then(response => {
@@ -61,8 +62,5 @@ fetch('https://ghibliapi.herokuapp.com/films')
 // // Send request
 // request.send()
 
-
-
-// Begin accessing JSON data here
 
 
