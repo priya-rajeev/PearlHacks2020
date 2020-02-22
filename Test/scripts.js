@@ -1,3 +1,4 @@
+
 // Replace ./data.json with your JSON feed
 fetch('https://ghibliapi.herokuapp.com/films')
     .then(response => {
@@ -59,8 +60,5 @@ fetch('https://ghibliapi.herokuapp.com/films')
 // }
 // Ema
 
-
-
-// Begin accessing JSON data here
 
 
