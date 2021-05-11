@@ -25,7 +25,7 @@
     "@bandwidth/messaging": "^1.0.1",
     "basic-auth": "^2.0.1",
     "express": "^4.17.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "node-bandwidth": "^3.0.3",
     "webpack-dev-server": "^3.10.3"
   }
