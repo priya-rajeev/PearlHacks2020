@@ -24,7 +24,7 @@
   "dependencies": {
     "@bandwidth/messaging": "^1.0.1",
     "basic-auth": "^2.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "lodash": "^4.17.15",
     "node-bandwidth": "^3.0.3",
     "webpack-dev-server": "^3.10.3"
